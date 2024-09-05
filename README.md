@@ -2,5 +2,5 @@
 
 ## Lessons
 
-- [x] [Starter](Lesson 1) 
+- [x] [Starter](Lesson%201)
 - [ ] Keyboard
